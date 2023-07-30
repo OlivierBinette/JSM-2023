@@ -1,0 +1,17 @@
+name: er-eval-demo
+
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - jupyter
+    - ipykernel
+    - ipython
+    - numpy
+    - pandas
+    - er-evaluation
+    - pv-evaluation
+    - datapane
+    - plotly
+
+
